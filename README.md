@@ -1,8 +1,8 @@
-# RepoName
+# geek
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/geek
 ```
 
